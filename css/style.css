@@ -1,14 +1,16 @@
 
 /*Ese tipo de selector es para un identificador del bloque de html*/
 .Col-land{
-    display: flex;
-    align-items: center;
-    font-size: 26px;
+    font-size: 50px;
     font-weight: 300;
-    border: 1px solid red;
 }
 
-.img-car{
-    height: auto;
-    width: auto;
+.centrar{
+    display: flex;
+    align-items: center;
+}
+
+.zise-img{
+    height: 230px !important;
+    width: 400 !important;
 }

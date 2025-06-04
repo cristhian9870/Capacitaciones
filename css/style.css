@@ -1,17 +1,14 @@
-/*
-*{
-    background-color: gray;
-}
-*/
-
-/*Ese tipo de selector es para una clase del bloque de html*/
-.r-Alt{
-    height: 120px;
-    /*border: 1px solid red;*/
-}
 
 /*Ese tipo de selector es para un identificador del bloque de html*/
-#idCol01{
-    height: 110px;
-    /*border: 1px solid green;*/
+.Col-land{
+    display: flex;
+    align-items: center;
+    font-size: 26px;
+    font-weight: 300;
+    border: 1px solid red;
+}
+
+.img-car{
+    height: auto;
+    width: auto;
 }
